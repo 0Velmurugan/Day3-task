@@ -1,1 +1,1 @@
-# Day3-task
+Using rest countries api url print flags,name,region,sub-region in console
